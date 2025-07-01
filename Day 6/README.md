@@ -16,20 +16,13 @@ This is a contact form made using HTML, CSS, and JavaScript with client-side inp
 
 Valid input
 
-<p align="center">
-  <img src="![Screenshot 2025-07-01 104655](https://github.com/user-attachments/assets/239c0dad-4a71-4407-8ecf-4a06fa9e66d2)
-" width="45%" />
-  <img src="![Screenshot 2025-07-01 104519](https://github.com/user-attachments/assets/ea9d24dc-7d36-4c3d-8589-fa0a6ad86aac)
-" width="45%" />
-</p>
+![Screenshot 2025-07-01 104655](https://github.com/user-attachments/assets/ccf67431-03cd-49ce-8555-d1355c2f5892)
+
+![Screenshot 2025-07-01 104519](https://github.com/user-attachments/assets/41420acf-6c58-4b28-9a30-064f93fb8885)
+
 
 Invalid input
 
-<p align="center">
-  <img src="![Screenshot 2025-07-01 104745](https://github.com/user-attachments/assets/ffe1eb6b-af7d-4b10-b3cb-a2a4c384c417)
-" width="45%" />
-  <img src="![Screenshot 2025-07-01 104811](https://github.com/user-attachments/assets/796e68f1-eff8-4f89-9bd7-847fa9965dcb)
-" width="45%" />
-</p>
+![Screenshot 2025-07-01 104745](https://github.com/user-attachments/assets/9cadc6c9-9a6c-4cee-a07d-5940d0b975ce)
 
-
+![Screenshot 2025-07-01 104811](https://github.com/user-attachments/assets/2e66c3bb-3976-47e8-897b-6db93cc9400a)
