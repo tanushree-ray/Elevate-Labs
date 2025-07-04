@@ -18,8 +18,8 @@ Desktop layout
 
 Responsive layout
 
-![Screenshot 2025-07-04 113822](https://github.com/user-attachments/assets/90d90322-7e5f-409f-b011-fc9edc22f3fb)
+![Screenshot 2025-07-04 113822](https://github.com/user-attachments/assets/0206c2e9-e206-42bd-80f4-26c281e3c681)
 
-![Screenshot 2025-07-04 113912](https://github.com/user-attachments/assets/015e623b-c3fb-41b7-9b89-dac9acfe73ae)
+![Screenshot 2025-07-04 113912](https://github.com/user-attachments/assets/c7f836ec-8b20-481f-9278-1b7d0158ef83)
 
 
