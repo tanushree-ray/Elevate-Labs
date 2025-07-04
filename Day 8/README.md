@@ -4,7 +4,7 @@ This is a responsive blog layout built using Bootstrap 5. It includes a navbar, 
 
 ## Files Included
 - `index.html` – Main HTML file using Bootstrap 5 CDN.
-- `looking at the sunset.jpeg`,`ai.jpg`,`Beach Sunset.jpeg`- Blog card images
+- `looking at the sunset.jpeg`,`ai.jpg`,`Beach Sunset.jpeg`- Blog post card images
 
 ## Responsive Design
 Tested across various screen sizes. Cards stack vertically on smaller devices using Bootstrap's grid system.
